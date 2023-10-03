@@ -13,10 +13,10 @@ Validation Criteria:
  Password and confirm password should match
  Whenever any of the above are not met, the error should pop saying ex; “enter
 correct email” or “password is not strong” etc
- You can include more conditions and fields to the form validation but the above
+ We can include more conditions and fields to the form validation but the above
 are mandatory.
 Development tools:
  HTML
- CSS and Bootstrap
- JavaScript( Event listeners(onSubmit and onChange), multiple functions, loops,
-if/else )
+ CSS 
+ JavaScript
+
